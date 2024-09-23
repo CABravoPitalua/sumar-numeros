@@ -9,4 +9,4 @@ console.log("El resultado es", suma)
 console.log("Un numero random", Math.random())
 
 const numeros = [4, 7, 1]
-console.log("El maximo es", Math.max(...numeros))
+console.log("El maximo es: ", Math.max(...numeros))
